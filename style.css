@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&family=Figtree:ital,wght@0,300..900;1,300..900&family=Martel+Sans:wght@200;300;400;600;700;800;900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&family=Poetsen+One&family=Poppins:ital,wght@1,200&family=Teko&display=swap');
+
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Figtree", sans-serif;
+}
+
+main{
+    background-color: hsl(47, 88%, 63%);
+    height: 100vh;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+.container{
+    max-width: 300px;
+    background-color: #fff;
+    border-radius: 15px;
+    padding: 18px;
+    box-shadow: 8px 8px;
+    border: 1px solid black;
+}
+
+.container img{
+    width: 100%;
+    border-radius: 15px ;
+}
+
+.learn{
+    font-weight: bold;
+    background-color:hsl(47, 88%, 63%);
+    border:none;
+    border-radius: 5px;
+    padding: 8px 12px;
+    margin: 15px 0px 10px;
+}
+
+.date , .details{
+    font-size: 14px;
+    font-weight: 600;
+    margin: 5px 0px;
+}
+
+h1{
+    font-size: 22px;
+    cursor: pointer;
+}
+
+h1:hover{
+    color: hsl(47, 88%, 63%);
+}
+
+.details{
+    color: slategrey;
+    line-height: 20px;
+    margin: 10px 0px;
+}
+
+.profilebox{
+    display: flex;
+    height: 30px;
+    margin-top: 25px ;
+    align-items: center;
+    gap:10px;
+}
+
+.profilebox img{
+    height: 100%;
+    width: auto;
+}
+
+.name{
+    font-size: 14px;
+    font-weight: 800;
+}
