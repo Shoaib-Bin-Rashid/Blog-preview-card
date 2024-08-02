@@ -30,12 +30,12 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Blog preview card](https://your-solution-url.com)
-- Live Site URL: [Blog preview card](https://your-live-site-url.com)
+- Solution URL: [Blog preview card](https://github.com/Shoaib-Bin-Rashid/Blog-preview-card.git)
+- Live Site URL: [Blog preview card Live](https://shoaib-bin-rashid.github.io/Blog-preview-card/)
 
 ## My process
 
--Step by step process for building the project by adding html and css for a particular block and then advancing to the next.
+Step by step process for building the project by adding html and css for a particular block and then advancing to the next.
 
 ### Built with
 
@@ -46,12 +46,13 @@ Users should be able to:
 
 ### What I learned
 
-I discovered the use of adjusting all the elements to create the project as close as the orginal one
+I want to focus more on creating more complex designs and also designing things on my own time
 
 ### Continued development
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - Well I haven't made my profile portfolio, gonna make it sooon when I know a lot of stuffs
+- Frontend Mentor - [@Shoaib-Bin-Rashid](https://www.frontendmentor.io/profile/Shoaib-Bin-Rashid)
+- Twitter - [@ShoaibBinRashi1](https://x.com/ShoaibBinRashi1)
+- Linkedin - [Shoaib Bin Rashid](https://www.linkedin.com/in/shoaib-bin-rashid)
